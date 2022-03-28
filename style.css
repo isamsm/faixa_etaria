@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h2, p {
+    font-size: 20px;
+    color: purple;
+}
+
+form {
+    text-align: center;
+    padding: 250px 250px;
+}
